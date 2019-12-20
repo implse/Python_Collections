@@ -12,7 +12,7 @@ Collections is a built-in Python module that implements specialized container da
 
 `defaultdict` : dict subclass that calls a factory function to supply missing values.
 
-`namedtupple` : tupple with named fields.
+`namedtuple` : factory function for creating tuple subclasses with named field.
 
 ## Sorted Collections
 
