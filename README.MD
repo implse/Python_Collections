@@ -1,6 +1,6 @@
 # Python Collections
 
-Collections is a built-in Python module that implements specialized container datatypes providing alternatives to Python’s general purpose built-in containers such as `dict`, `list`, `set`, and `tuple`.
+Collections is a built-in Python module that implements specialized container datatypes providing alternatives to Python general purpose built-in containers such as `dict`, `list`, `set`, and `tuple`.
 
 ## High-Performance Container Collections
 
